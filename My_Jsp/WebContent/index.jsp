@@ -2,4 +2,5 @@
 	pageEncoding="UTF-8"%>
 <%
 	response.sendRedirect(request.getContextPath() + "/Main.do");
+//수정
 %>
